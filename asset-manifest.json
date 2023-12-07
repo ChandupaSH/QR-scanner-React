@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ChandupaSH/QR-scanner-React.git/static/css/main.e6c13ad2.css",
-    "main.js": "/ChandupaSH/QR-scanner-React.git/static/js/main.3430e753.js",
-    "index.html": "/ChandupaSH/QR-scanner-React.git/index.html",
-    "main.e6c13ad2.css.map": "/ChandupaSH/QR-scanner-React.git/static/css/main.e6c13ad2.css.map",
-    "main.3430e753.js.map": "/ChandupaSH/QR-scanner-React.git/static/js/main.3430e753.js.map"
+    "main.css": "/ChandupaSH/QR-scanner-React/static/css/main.e6c13ad2.css",
+    "main.js": "/ChandupaSH/QR-scanner-React/static/js/main.3430e753.js",
+    "index.html": "/ChandupaSH/QR-scanner-React/index.html",
+    "main.e6c13ad2.css.map": "/ChandupaSH/QR-scanner-React/static/css/main.e6c13ad2.css.map",
+    "main.3430e753.js.map": "/ChandupaSH/QR-scanner-React/static/js/main.3430e753.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
